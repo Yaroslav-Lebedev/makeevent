@@ -411,10 +411,60 @@ color: rgb(57, 171, 111);
 /*============================
 CONTACT SECTION STYLES
 ==============================*/
+#about .about-wrapper {
+background-color:rgba(255, 255, 255, 0.1);
+padding: 52px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+margin-bottom: 40px;
+min-height:200px;
+text-align: left !important;
+ }
+#about .about-wrapper h3 {
+color:rgb(57, 171, 111);
+}
+
+.footer-div {
+padding-top:25px;
+}
+.footer-div a,.footer-div a:hover {
+font-size:10px;
+        
+color:#fff;
+text-decoration:none;
+}
+
+#contact2 .contact2-wrapper {
+background-color:rgba(255, 255, 255, 0.1);
+padding: 52px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+/* margin-bottom: 40px; */
+min-height:200px;
+text-align: center
+ }
+#contact2 .contact2-wrapper h3 {
+color:rgb(57, 171, 111);
+}
+#contact2 .social-below {
+display: block;
+margin-top: 5px;
+}
+.footer-div {
+padding-top:25px;
+}
+.footer-div a,.footer-div a:hover {
+font-size:10px;
+    
+color:#fff;
+text-decoration:none;
+}
 
 #contact .contact-wrapper {
 background-color:rgba(255, 255, 255, 0.1);
-padding: 20px;
+padding: 52px;
 border-radius: 5px;
 -moz-border-radius: 5px;
 -webkit-border-radius: 5px;
