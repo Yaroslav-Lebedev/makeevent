@@ -121,6 +121,11 @@ textarea {
 button {
   overflow: visible;
 }
+
+.green-arrow {
+  margin-top: 80px;
+}
+
 button,
 select {
   text-transform: none;
