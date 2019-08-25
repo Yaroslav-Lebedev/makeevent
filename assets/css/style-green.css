@@ -214,6 +214,36 @@ text-align: center;
         transition: all 0.5s ease-in-out;
         }
 
+        .services-wrapper-31 {
+            padding: 20px;
+            border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            margin-bottom: 40px;
+            /* margin-top: 180px; */
+            background-color: rgba(74, 133, 34, 0.3);
+            cursor: pointer;
+            -webkit-transition: all 0.5s ease-in-out;
+            -moz-transition: all 0.5s ease-in-out;
+            -o-transition: all 0.5s ease-in-out;
+            transition: all 0.5s ease-in-out;
+            }
+        
+            .services-wrapper-32 {
+                padding: 20px;
+                border-radius: 5px;
+                -moz-border-radius: 5px;
+                -webkit-border-radius: 5px;
+                margin-bottom: 40px;
+                /* margin-top: 180px; */
+                background-color: rgba(210, 149, 0, 0.3);
+                cursor: pointer;
+                -webkit-transition: all 0.5s ease-in-out;
+                -moz-transition: all 0.5s ease-in-out;
+                -o-transition: all 0.5s ease-in-out;
+                transition: all 0.5s ease-in-out;
+                }
+
         #services .services-wrapper-4 {
             padding: 20px;
             border-radius: 5px;
