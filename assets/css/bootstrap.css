@@ -1264,7 +1264,11 @@ h1,
 h2,
 .h2 {
   font-size: 30px;
+<<<<<<< HEAD
   color: rgb(210,149,0);
+=======
+  color: rgb(74,133,34)
+>>>>>>> a8251c19c0e28de0953aeb6fc71250e3def323ee
 }
 h3,
 .h3 {
